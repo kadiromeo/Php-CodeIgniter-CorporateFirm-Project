@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c58a445d-cd41-41e3-b2b9-b0d9582d8ec5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1chChOHR1VqkPLlBJCcXRAyPtyB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/controllers" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\kurumsal\application\controllers" />
+      <recent name="C:\xampp\htdocs\kurumsal\application\views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c58a445d-cd41-41e3-b2b9-b0d9582d8ec5" name="Default Changelist" comment="" />
+      <created>1590971556874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590971556874</updated>
+      <workItem from="1590971557989" duration="6239000" />
+      <workItem from="1591030130762" duration="7372000" />
+      <workItem from="1591048865622" duration="8996000" />
+      <workItem from="1591105436565" duration="14843000" />
+      <workItem from="1591136223554" duration="3185000" />
+      <workItem from="1591183160207" duration="353000" />
+      <workItem from="1591183522004" duration="2595000" />
+      <workItem from="1591215427255" duration="16026000" />
+      <workItem from="1591304519407" duration="1199000" />
+      <workItem from="1591316704097" duration="5704000" />
+      <workItem from="1591365303625" duration="21648000" />
+      <workItem from="1591478102413" duration="12561000" />
+      <workItem from="1591532750691" duration="1794000" />
+      <workItem from="1591561602552" duration="14068000" />
+      <workItem from="1591606456808" duration="9533000" />
+      <workItem from="1591637590130" duration="1211000" />
+      <workItem from="1591639878771" duration="3840000" />
+      <workItem from="1591725082169" duration="9484000" />
+      <workItem from="1591820480345" duration="15093000" />
+      <workItem from="1591887679435" duration="6446000" />
+      <workItem from="1591916544279" duration="21000" />
+      <workItem from="1591985324614" duration="17457000" />
+      <workItem from="1592071590127" duration="12376000" />
+      <workItem from="1592102818599" duration="492000" />
+      <workItem from="1592145594120" duration="18447000" />
+      <workItem from="1592200978217" duration="1211000" />
+      <workItem from="1592239786915" duration="6745000" />
+      <workItem from="1592277076742" duration="1405000" />
+      <workItem from="1592303343467" duration="271000" />
+      <workItem from="1592356690006" duration="385000" />
+      <workItem from="1592357763149" duration="836000" />
+      <workItem from="1592415517963" duration="20711000" />
+      <workItem from="1592461211884" duration="4128000" />
+      <workItem from="1592495552024" duration="20003000" />
+      <workItem from="1592523396297" duration="1893000" />
+      <workItem from="1592546927730" duration="15344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590973258796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="350" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590973258796" />
+    <state x="365" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592513901066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="365" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592513901066" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1591109319656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591109319656" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591055909989" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1591060978725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591060978725" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591136245137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1591030133709" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591136245137" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592173280811">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592173280811" />
+  </component>
+</project>
